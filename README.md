@@ -42,7 +42,7 @@
 | 🎥 **Computer Vision App** | Live object detection and tracking system |
 
 
-## 🗓️ 2025 Goals
+## 🗓️ 2025/2026 Goals
 ✅ Complete dual MSc (AI & Software Engineering)  
 🚀 Build 3 production-ready AI-driven systems  
 📚 Publish an AI/ML research paper  
