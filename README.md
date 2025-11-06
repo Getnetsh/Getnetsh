@@ -1,47 +1,56 @@
 <div align="center">
 
-# 👋 Hi, I'm **Getnet Shiferaw Mekonnen!**  
-🤖 *AI Engineer & Software Innovator* • 💻 *Full-Stack Developer* • 🎓 *Master’s Student*  
+# 👋 Hi, I'm **Getnet Shiferaw Mekonnen**
+🎓 *Master’s Student (AI & Software Engineering)* • 🤖 *AI Engineer & Researcher* • 💻 *Full-Stack Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+AI+Solutions;Master's+at+UniCal+%26+FH+Upper+Austria;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%7C+Researcher+%7C+Innovator;Building+Smarter+Systems+with+AI;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 
 📍 Calabria, Italy | 🎓 University of Calabria & FH Upper Austria  
-🧠 Artificial Intelligence & Software Engineering  
+🌐 [getnetshiferaw.vercel.app](https://getnetshiferaw.vercel.app) | ✉️ [Getnetss2009@gmail.com](mailto:Getnetss2009@gmail.com)
+
+---
 
 ## 🚀 About Me
-🛠️ Tech Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,flask,django,vue,html,css,mysql,postgresql,mongodb,docker,git,linux" /> </div>
-🎯 Current Focus
-
-🔬 Master’s Thesis – AI-driven Semantic Equivalence Checking (University of Calabria)
-
-🤖 Applied AI – Building 3 production-ready ML applications
-
-📊 Data Visualization – Interactive dashboards using Dash & Plotly
-
-📚 Research – Exploring LLMs, prompt engineering, and multi-agent systemsmplex problems into simple, intelligent solutions"
+```python
+getnet_shiferaw = {
+    "role": "AI Engineer & Researcher",
+    "experience": "3+ years in Fintech & Digital Banking Innovation",
+    "focus": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
+    "education": ["MSc AI @ UniCal", "MSc Software Eng. @ FH Upper Austria"],
+    "mission": "Transform complex problems into simple, scalable AI solutions"
 }
 
+
+⚙️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,react,nodejs,flask,django,vue,html,css,mysql,postgresql,mongodb,docker,git,linux" /> </div>
+🎯 Focus Areas
+
+🧠 AI Research — Semantic equivalence checking, LLMs & intelligent agents
+
+🧩 Applied ML — Deploying production-grade AI models
+
+📊 Data Visualization — Dashboards with Dash, Plotly & Streamlit
+
+🌍 Fintech Innovation — Secure digital banking & API integration
+
 🌟 Featured Projects
-Project	Description
-🖼️ AI Image Classifier	Deep learning model for real-time image recognition
-📜 NLP Sentiment Analyzer	Transformer-based model for contextual sentiment detection
-📈 Data Visualization Dashboard	Real-time analytics and dashboards with Plotly
-📷 Computer Vision App	Live object detection and tracking application
+🧩 Project	💡 Description
+🖼️ AI Image Classifier	Deep CNN for real-time image recognition
+💬 NLP Sentiment Analyzer	Transformer-based sentiment analysis model
+📈 Data Visualization Dashboard	Real-time analytics platform using Plotly
+🎥 Computer Vision App	Live object detection and tracking system
+📊 GitHub Insights
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight&hide_border=true&line_height=28" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight&hide_border=true" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </div>
+🗓️ 2025 Goals
 
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight" /> </div>
-🎯 2025 Roadmap
-
-✅ Complete Master’s Thesis
+✅ Complete dual MSc (AI & Software Engineering)
 🚀 Launch 3 AI-powered projects
-📚 Publish AI research paper
-💼 Secure AI Engineer or Research role
+📚 Publish an academic research paper
+💼 Join a cutting-edge AI engineering team
 
-💬 Let's Connect!
-<div align="center"> <a href="https://linkedin.com/in/getnet-shiferaw"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:Getnetss2009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://getnetshiferaw.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/getnet-shiferaw"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:Getnetss2009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://getnetshiferaw.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a> <a href="https://github.com/Getnetsh"><img src="https://skillicons.dev/icons?i=github" /></a> </div>
 
-🧠 “Always experimenting with new AI models, always turning complex problems into simple solutions!”
+💡 “Always experimenting with new AI models — always turning complex problems into simple solutions.”
 
 </div> ```
