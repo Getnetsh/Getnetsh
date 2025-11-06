@@ -9,14 +9,6 @@
 🌐 [getnetshiferaw.vercel.app](https://getnetshiferaw.vercel.app) • ✉️ [Getnetss2009@gmail.com](mailto:Getnetss2009@gmail.com)
 
 
-## 🚀 About Me
-getnet_shiferaw = {
-    "role": "AI Engineer & Researcher",
-    "experience": "3+ years in Fintech & Digital Banking Innovation",
-    "focus": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
-    "education": ["MSc AI @ UniCal", "MSc Software Eng. @ FH Upper Austria"],
-    "mission": "Transform complex problems into simple, scalable AI solutions"
-}
 ⚙️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,react,nodejs,flask,django,vue,html,css,mysql,postgresql,mongodb,docker,git,linux" /> </div>
 🎯 Focus Areas
