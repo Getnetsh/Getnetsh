@@ -8,10 +8,8 @@
 📍 Calabria, Italy | 🎓 University of Calabria & FH Upper Austria  
 🌐 [getnetshiferaw.vercel.app](https://getnetshiferaw.vercel.app) • ✉️ [Getnetss2009@gmail.com](mailto:Getnetss2009@gmail.com)
 
----
 
 ## 🚀 About Me
-```python
 getnet_shiferaw = {
     "role": "AI Engineer & Researcher",
     "experience": "3+ years in Fintech & Digital Banking Innovation",
