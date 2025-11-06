@@ -8,14 +8,40 @@
 📍 Calabria, Italy | 🎓 University of Calabria & FH Upper Austria  
 🧠 Artificial Intelligence & Software Engineering  
 
----
-
 ## 🚀 About Me
-```python
-getnet_shiferaw = {
-    "role": "AI Engineer & Researcher",
-    "focus": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
-    "background": "3+ years in Fintech & Digital Banking Innovation",
-    "currently": "Building intelligent systems & completing dual MSc in AI & Software Engineering",
-    "motto": "Turning complex problems into simple, intelligent solutions"
+🛠️ Tech Arsenal
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,flask,django,vue,html,css,mysql,postgresql,mongodb,docker,git,linux" /> </div>
+🎯 Current Focus
+
+🔬 Master’s Thesis – AI-driven Semantic Equivalence Checking (University of Calabria)
+
+🤖 Applied AI – Building 3 production-ready ML applications
+
+📊 Data Visualization – Interactive dashboards using Dash & Plotly
+
+📚 Research – Exploring LLMs, prompt engineering, and multi-agent systemsmplex problems into simple, intelligent solutions"
 }
+
+🌟 Featured Projects
+Project	Description
+🖼️ AI Image Classifier	Deep learning model for real-time image recognition
+📜 NLP Sentiment Analyzer	Transformer-based model for contextual sentiment detection
+📈 Data Visualization Dashboard	Real-time analytics and dashboards with Plotly
+📷 Computer Vision App	Live object detection and tracking application
+
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight" /> </div>
+🎯 2025 Roadmap
+
+✅ Complete Master’s Thesis
+🚀 Launch 3 AI-powered projects
+📚 Publish AI research paper
+💼 Secure AI Engineer or Research role
+
+💬 Let's Connect!
+<div align="center"> <a href="https://linkedin.com/in/getnet-shiferaw"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:Getnetss2009@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://getnetshiferaw.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a> </div>
+
+🧠 “Always experimenting with new AI models, always turning complex problems into simple solutions!”
+
+</div> ```
