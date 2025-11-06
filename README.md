@@ -28,7 +28,7 @@
 🎥 Computer Vision App	Live object detection and tracking system
 
 📊 GitHub Insights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight&hide_border=true&line_height=28" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight&hide_border=true" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight&hide_border=true" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight&hide_border=true" width="50%" /> </div>
 🗓️ 2025 Goals
 ✅ Complete dual MSc (AI & Software Engineering)
 🚀 Launch 3 AI-powered projects
