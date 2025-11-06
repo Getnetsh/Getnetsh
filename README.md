@@ -8,7 +8,6 @@
 📍 Calabria, Italy | 🎓 University of Calabria & FH Upper Austria  
 🌐 [getnetshiferaw.vercel.app](https://getnetshiferaw.vercel.app) • ✉️ [Getnetss2009@gmail.com](mailto:Getnetss2009@gmail.com)
 
----
 
 ## ⚙️ Tech Stack
 <div align="center">
@@ -27,15 +26,11 @@
 
 </div>
 
----
-
 ## 🎯 Focus Areas
 - 🧠 **AI Research** — Semantic equivalence checking, LLMs & intelligent agents  
 - 🤖 **Applied ML** — Building and deploying production-grade AI models  
 - 📊 **Data Visualization** — Dashboards with Dash, Plotly & Streamlit  
 - 🌍 **Fintech Innovation** — Secure digital banking, API integrations, and automation  
-
----
 
 ## 🌟 Featured Projects
 | 🧩 **Project** | 💡 **Description** |
@@ -46,25 +41,12 @@
 | 📱 **Fintech Mobile App (Ionic + Node.js)** | Secure digital banking & wallet integration |
 | 🎥 **Computer Vision App** | Live object detection and tracking system |
 
----
-
-## 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Getnetsh&show_icons=true&theme=tokyonight&hide_border=true&line_height=28" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Getnetsh&theme=tokyonight&hide_border=true" width="49%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getnetsh&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</div>
-
----
 
 ## 🗓️ 2025 Goals
 ✅ Complete dual MSc (AI & Software Engineering)  
 🚀 Build 3 production-ready AI-driven systems  
 📚 Publish an AI/ML research paper  
 💼 Join a cutting-edge AI Engineering or Research team  
-
----
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -73,8 +55,6 @@
   <a href="https://getnetshiferaw.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="https://github.com/Getnetsh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </div>
-
----
 
 ### 💡 *“Always experimenting with new AI models — always turning complex problems into simple, scalable solutions.”*
 
