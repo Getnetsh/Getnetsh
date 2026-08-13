@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=200&section=header&text=Getnet%20Shiferaw%20Mekonnen&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fintech%20Software%20Engineer%20%7C%20Digital%20Banking%20%26%20API%20Integration&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=160&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=3%2B+Years+in+Digital+Banking;Secure+Payments+%26+API+Integrations;Dual+M.Sc.+Student+%7C+AI+%2B+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&height=50&lines=Getnet+Shiferaw+Mekonnen" alt="Name" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8A8A8A&center=true&vCenter=true&width=650&lines=Fintech+Software+Engineer+%7C+Digital+Banking+%26+API+Integration;3%2B+Years+in+Digital+Banking;Secure+Payments+%26+API+Integrations;Dual+M.Sc.+Student+%7C+AI+%2B+Software+Engineering" alt="Typing SVG" />
 
 <br/>
 
